@@ -1,6 +1,6 @@
- # Shellcode Toolkit (免杀Shellcode生成工具)                                                                 
+ # Shellcode Toolkit (Shellcode处理工具)                                                                 
                                                                                                                                                                                                                                                                       
-一款基于PyQt5的免杀Shellcode生成与测试工具，支持多种编码方式和反沙箱技术。                                  
+一款基于PyQt5的Shellcode生成与测试工具，支持多种编码方式和注入技术。                                  
                                                                                                             
 ## 主要功能                                                                                                 
                                                                                                             
