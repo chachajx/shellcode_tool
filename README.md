@@ -1,13 +1,10 @@
  # Shellcode Toolkit (Shellcode处理工具)                                                                 
                                                                                                                                                                                                                                                                       
-一款基于PyQt5的Shellcode生成与测试工具，支持多种编码方式和注入技术。                                  
+使用Aipy生成的一款基于PyQt5的Shellcode生成与测试工具，支持多种编码方式和注入技术。                                  
                                                                                                             
-## 主要功能                                                                                                 
-                                                                                                            
-### 核心功能                                                                                                
+## 主要功能                                                                                                                                                                                          
   Shellcode加密处理支持（Base64、XOR、AES等）                                                                   
-  PE注入，支持函数注入、入口点注入、TLS注入、导出表注入                                                                                                                                                                                                                                                                                                                                                                         
-                                                                                                           
+  PE注入，支持函数注入、入口点注入、TLS注入、导出表注入                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 ### 基础环境                                                                                                
 ```bash                                                                                                     
 # 克隆仓库                                                                                                  
@@ -16,7 +13,13 @@ cd shellcode_toolkit
                                                                                                             
 # 安装依赖                                                                                                  
 pip install -r requirements.txt                                                                             
-```                                                                                                         
+```
+![shellcode_02](https://github.com/user-attachments/assets/ff82e8ae-9585-42a2-9708-bcb00be8c9ec)
+                                                                                                      
+![shellcode_01](https://github.com/user-attachments/assets/d4c7a7c6-1f52-41d1-8f0f-89a059d64506)
+
+![shellcode_03](https://github.com/user-attachments/assets/6594f9aa-209a-4b77-9693-7736626441f0)
+
                                                                                                                                                                                                  
 ## 使用说明                                                                                                 
                                                                                                             
