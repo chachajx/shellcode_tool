@@ -1,0 +1,4 @@
+PyQt6>=6.4.0
+cryptography>=38.0.0                                                                                                
+pefile>=2022.5.30                                                                                                   
+                         
